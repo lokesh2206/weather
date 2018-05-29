@@ -1,4 +1,4 @@
-connection: "smartdata"
+connection: "dev-redshift"
 
 # include all the views
 include: "*.view"
